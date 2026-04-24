@@ -1,9 +1,10 @@
 # Whats up!!  I'm Marcos
 
-[ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&color=36BCF7&width=435&lines=Telecommunications+Student;Future+Telematics+Engineer;Cybersecurity+Enjoyer) ](https://git.io/typing-svg)
+<img src="assets/wifi.png" width="50" alt="WiFi"> [ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&color=36BCF7&width=435&lines=Telecommunications+Student;Future+Telematics+Engineer;Cybersecurity+Enjoyer) ](https://git.io/typing-svg)
+
 
 Studying a degree in **Telecom Engineering** at the **University of Valladolid** (UVa) 🏛️  
-My goal is to specialize in **Telematics** 📡
+My goal is to specialize in **Telematics** 
 
 ---
 
