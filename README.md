@@ -6,6 +6,8 @@
 Studying a degree in **Telecom Engineering** at the **University of Valladolid** (UVa) 🏛️  
 My goal is to specialize in **Telematics** 
 
+I am also learning **cybersecurity** just as an amateur (for the moment)
+
 ---
 
 ### 🛠️ Working with
